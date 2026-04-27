@@ -150,7 +150,7 @@ Ensure you have the following installed on your system:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/siddheshwar09/URL_Shortener.git
 cd URL-Shortener
 ```
 
